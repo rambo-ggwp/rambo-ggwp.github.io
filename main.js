@@ -16,7 +16,7 @@ function Test() {
 
 	cookieClick(10);
 
-	document.getElementById('MilkshakeButton').src='Milkshake2.png'
+	document.getElementById('MilkshakeButton').src='Rambo2.png'
 
 }
 
@@ -24,7 +24,7 @@ function Test() {
 
 function Test2() {
 
-	document.getElementById('MilkshakeButton').src='Milkshake.png'
+	document.getElementById('MilkshakeButton').src='Rambo.png'
 
 }
 
