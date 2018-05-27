@@ -14,7 +14,7 @@ function cookieClick(number){
 
 function Test() {
 
-	cookieClick(10);
+	cookieClick(180);
 
 	document.getElementById('MilkshakeButton').src='Rambo2.png'
 
